@@ -26,4 +26,3 @@ jobs:
       with:
           name: jacoco_reports
           path: build/reports/jacoco/test/html
-          
